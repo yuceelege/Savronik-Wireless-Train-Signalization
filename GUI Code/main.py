@@ -9,8 +9,8 @@ from include.SelectionScreen import StationWindow
 from include.GraphScreen_v5 import GraphWindow
 
 class FirebaseClient(QThread):
-    service_account_path = '/Users/efetarhan/Desktop/Savronik/GUI/include/serviceAccountKey.json'  # Update the path
-    database_url = 'https://wireless-train-signalization-default-rtdb.europe-west1.firebasedatabase.app/'  # Your Firebase database URL
+    service_account_path =   # Update the path
+    database_url =  # Your Firebase database URL
     reference_path = 'data'
     message_received = pyqtSignal(list)
 
