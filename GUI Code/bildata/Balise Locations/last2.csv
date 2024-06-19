@@ -1,0 +1,4 @@
+Name;source;destination;source_station;destination_station;source_X;source_Y;destination_X;destination_Y
+;BL1;BL2;BIL;BIL;0;150;40;150
+;BL2;BL3;BIL;BIL;40;150;80;150
+;BL3;BL4;BIL;BIL;80;150;120;150
