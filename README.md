@@ -1,5 +1,9 @@
 # Wireless Train Signalization Project
 
+<p align="center">
+  <img src="https://github.com/tarhanefe/bilkent-cs115-labs/assets/73281981/353e59fa-4cf5-4be5-b62f-afa383f3fdcd" alt="Bilkent University Logo" width = "300" />
+</p>
+
 ## Overview
 This project is developed as part of the Bilkent University Electrical and Electronics Engineering Industrial Design Project. It aims to introduce a wireless railway signalization system utilizing RF-based wireless technologies and passive RFID antenna balises. This system is designed to optimize track capacity and safety by providing continuous communication and real-time management of train movements.
 
